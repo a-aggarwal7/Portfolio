@@ -74,14 +74,6 @@ I enjoy turning raw data into clear, actionable insights that support smarter bu
 | **Development** | GitHub, VS Code, Jupyter Notebook, Google Colab |
 | **Other** | AWS (basic), REST APIs, Docker |
 
----
-
-## 📈 GitHub Analytics  
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=a-aggarwal7&show_icons=true&hide_border=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-aggarwal7&layout=compact&hide_border=true&theme=radical" />
-</p>
 
 ---
 
