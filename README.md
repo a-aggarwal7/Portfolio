@@ -32,6 +32,27 @@ I enjoy turning raw data into clear, actionable insights that support smarter bu
 
 ## 🚀 Featured Projects  
 
+### ✈️ [British Airways Review Dashboard (Tableau)](https://public.tableau.com/app/profile/aditya.aggarwal5502/viz/BritishAirwaysReview_17609092516310/BritishAirwaysReview?publish=yes)
+**Tech:** Tableau, Excel  
+- Analyzed **customer reviews** for British Airways to uncover insights on passenger satisfaction, service quality, and overall experience.  
+- Used **parameters** and **calculated fields** to explore multiple review metrics dynamically.  
+- Added **filters** for travel class, continent, aircraft type, and traveler type for detailed exploration.  
+- Identified patterns in **customer sentiment** across time periods and travel categories.  
+
+📈 *Showcases advanced Tableau features such as parameters, filters, and calculated fields for dynamic storytelling.*  
+
+---
+
+### 💼 [Profit vs Target Profit Analysis (Tableau)](https://public.tableau.com/app/profile/aditya.aggarwal5502/viz/BusinessAnalysis_17615171543890/BusinessAnalysis)
+**Tech:** Tableau, Excel  
+- Built a dashboard comparing **Profit vs Target Profit** across **U.S. states and products**.  
+- Used **calculated fields**, **reference lines**, and **tooltips** to highlight target achievements and performance gaps.  
+- Created a **state-level map** to visualize profit goal attainment geographically.  
+- Combined product-level and regional views for quick executive insights.  
+
+📊 *Demonstrates ability to blend multiple Tableau features to create clear, actionable business insights.*  
+
+
 ### 🧹 [Data Cleaning and Preprocessing](https://github.com/a-aggarwal7/Data_cleaning_project)
 **Tech:** SQL, Python (Pandas, NumPy)  
 - Cleaned and standardized large datasets by removing duplicates and fixing inconsistencies.  
