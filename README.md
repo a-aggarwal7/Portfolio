@@ -52,6 +52,7 @@ I enjoy turning raw data into clear, actionable insights that support smarter bu
 
 📊 *Demonstrates ability to blend multiple Tableau features to create clear, actionable business insights.*  
 
+---
 
 ### 🧹 [Data Cleaning and Preprocessing](https://github.com/a-aggarwal7/Data_cleaning_project)
 **Tech:** SQL, Python (Pandas, NumPy)  
