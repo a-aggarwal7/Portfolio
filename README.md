@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m a **Computer Science student at The King’s University** with a **Business Minor**, passionate about using data to tell stories, uncover insights, and solve real-world problems.  
+I’m a **Computer Science graduate from The King’s University** with a **Business Minor**, passionate about using data to tell stories, uncover insights, and solve real-world problems.  
 
 I’m currently building projects focused on **data analytics, business intelligence, and product strategy**, while sharpening my skills in **SQL, Python, and Tableau**.  
 
