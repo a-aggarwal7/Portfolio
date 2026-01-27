@@ -53,6 +53,19 @@ I enjoy turning raw data into clear, actionable insights that support smarter bu
 📊 *Demonstrates ability to blend multiple Tableau features to create clear, actionable business insights.*  
 
 ---
+---
+### 🎬 [Movie Genre Profitability Analysis (Google Sheets)](https://github.com/a-aggarwal7/movie-genre-profit-analysis)
+**Tech:** Google Sheets, Pivot Tables  
+- Evaluated average revenue, budget, and profit across movie genres using pivot tables.  
+- Identified top-performing genres through sorting and calculated fields.  
+- Visualized key findings with a bar chart for stakeholder communication.  
+
+📊 *Highlights practical business analytics using spreadsheets.*
+
+
+
+---
+
 
 ### 🧹 [Data Cleaning and Preprocessing](https://github.com/a-aggarwal7/Data_cleaning_project)
 **Tech:** SQL, Python (Pandas, NumPy)  
