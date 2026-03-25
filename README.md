@@ -32,38 +32,6 @@ I enjoy turning raw data into clear, actionable insights that support smarter bu
 
 ## 🚀 Featured Projects  
 
-### ✈️ [British Airways Review Dashboard (Tableau)](https://public.tableau.com/app/profile/aditya.aggarwal5502/viz/BritishAirwaysReview_17609092516310/BritishAirwaysReview?publish=yes)
-**Tech:** Tableau, Excel  
-- Analyzed **customer reviews** for British Airways to uncover insights on passenger satisfaction, service quality, and overall experience.  
-- Used **parameters** and **calculated fields** to explore multiple review metrics dynamically.  
-- Added **filters** for travel class, continent, aircraft type, and traveler type for detailed exploration.  
-- Identified patterns in **customer sentiment** across time periods and travel categories.  
-
-📈 *Showcases advanced Tableau features such as parameters, filters, and calculated fields for dynamic storytelling.*  
-
----
-
-### 💼 [Profit vs Target Profit Analysis (Tableau)](https://public.tableau.com/app/profile/aditya.aggarwal5502/viz/BusinessAnalysis_17615171543890/BusinessAnalysis)
-**Tech:** Tableau, Excel  
-- Built a dashboard comparing **Profit vs Target Profit** across **U.S. states and products**.  
-- Used **calculated fields**, **reference lines**, and **tooltips** to highlight target achievements and performance gaps.  
-- Created a **state-level map** to visualize profit goal attainment geographically.  
-- Combined product-level and regional views for quick executive insights.  
-
-📊 *Demonstrates ability to blend multiple Tableau features to create clear, actionable business insights.*  
-
----
----
-### 🎬 [Movie Genre Profitability Analysis (Google Sheets)](https://github.com/a-aggarwal7/movie-genre-profit-analysis)
-**Tech:** Google Sheets, Pivot Tables  
-- Evaluated average revenue, budget, and profit across movie genres using pivot tables.  
-- Identified top-performing genres through sorting and calculated fields.  
-- Visualized key findings with a bar chart for stakeholder communication.  
-
-📊 *Highlights practical business analytics using spreadsheets.*
-
----
-
 ## 📊 Tech Layoffs Data Analysis Pipeline (2020–2023)
 
 **Tech:** SQL (MySQL), MySQL Workbench  
@@ -85,6 +53,7 @@ I enjoy turning raw data into clear, actionable insights that support smarter bu
 🚀 Simulates a real-world data analyst workflow from preprocessing to insight generation  
 
 ---
+
 
 ## 📊 End-to-End Sales Analytics Dashboard
 
@@ -110,6 +79,39 @@ I enjoy turning raw data into clear, actionable insights that support smarter bu
 🚀 Demonstrates full analytics workflow from data cleaning to dashboard-driven insights
 
 ---
+
+### ✈️ [British Airways Review Dashboard (Tableau)](https://public.tableau.com/app/profile/aditya.aggarwal5502/viz/BritishAirwaysReview_17609092516310/BritishAirwaysReview?publish=yes)
+**Tech:** Tableau, Excel  
+- Analyzed **customer reviews** for British Airways to uncover insights on passenger satisfaction, service quality, and overall experience.  
+- Used **parameters** and **calculated fields** to explore multiple review metrics dynamically.  
+- Added **filters** for travel class, continent, aircraft type, and traveler type for detailed exploration.  
+- Identified patterns in **customer sentiment** across time periods and travel categories.  
+
+📈 *Showcases advanced Tableau features such as parameters, filters, and calculated fields for dynamic storytelling.*  
+
+---
+
+### 💼 [Profit vs Target Profit Analysis (Tableau)](https://public.tableau.com/app/profile/aditya.aggarwal5502/viz/BusinessAnalysis_17615171543890/BusinessAnalysis)
+**Tech:** Tableau, Excel  
+- Built a dashboard comparing **Profit vs Target Profit** across **U.S. states and products**.  
+- Used **calculated fields**, **reference lines**, and **tooltips** to highlight target achievements and performance gaps.  
+- Created a **state-level map** to visualize profit goal attainment geographically.  
+- Combined product-level and regional views for quick executive insights.  
+
+📊 *Demonstrates ability to blend multiple Tableau features to create clear, actionable business insights.*  
+
+---
+
+### 🎬 [Movie Genre Profitability Analysis (Google Sheets)](https://github.com/a-aggarwal7/movie-genre-profit-analysis)
+**Tech:** Google Sheets, Pivot Tables  
+- Evaluated average revenue, budget, and profit across movie genres using pivot tables.  
+- Identified top-performing genres through sorting and calculated fields.  
+- Visualized key findings with a bar chart for stakeholder communication.  
+
+📊 *Highlights practical business analytics using spreadsheets.*
+
+---
+
 
 ### 🏠 [Airbnb Market Dashboard (Tableau)](https://public.tableau.com/app/profile/aditya.aggarwal1545/viz/AirBnbFullProject_17586709899910/Dashboard1)
 **Tech:** Tableau, Excel  
