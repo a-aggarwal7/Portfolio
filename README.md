@@ -32,8 +32,7 @@ I enjoy turning raw data into clear, actionable insights that support smarter bu
 
 ## 🚀 Featured Projects  
 
-## 📊 Tech Layoffs Data Analysis Pipeline (2020–2023)
-[Tech Layoffs Data Analysis Pipeline (2020–2023)](https://github.com/a-aggarwal7/movie-genre-profit-analysis)
+## 📊 [Tech Layoffs Data Analysis Pipeline (2020–2023)]([https://github.com/a-aggarwal7/movie-genre-profit-analysis](https://github.com/a-aggarwal7/end_to_end_technical_layoffs_analysis))
 
 **Tech:** SQL (MySQL), MySQL Workbench  
 
