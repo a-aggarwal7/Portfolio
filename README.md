@@ -62,24 +62,52 @@ I enjoy turning raw data into clear, actionable insights that support smarter bu
 
 📊 *Highlights practical business analytics using spreadsheets.*
 
+---
 
+## 📊 Tech Layoffs Data Analysis Pipeline (2020–2023)
+
+**Tech:** SQL (MySQL), MySQL Workbench  
+
+- Built an end-to-end data pipeline from raw data cleaning to exploratory analysis  
+- Removed duplicates, handled missing values, and standardized data formats  
+- Performed SQL-based EDA to identify trends across industries, companies, and regions  
+- Detected anomalies and generated insights on layoffs, funding stages, and market trends  
+
+📈 **Key Insights:**
+- Startups showed the highest layoff percentages, often indicating shutdowns  
+- Large firms like Amazon, Google, Meta, and Twitter had the highest layoffs  
+- Most impacted industries: consumer, retail, transportation, and finance  
+- The U.S. recorded the highest layoffs globally  
+- 2023 showed peak layoffs despite partial-year data  
+
+✅ Improved data quality and generated actionable business insights  
+
+🚀 Simulates a real-world data analyst workflow from preprocessing to insight generation  
 
 ---
 
+## 📊 End-to-End Sales Analytics Dashboard
 
-### 🧹 [Data Cleaning and Preprocessing](https://github.com/a-aggarwal7/Data_cleaning_project)
-**Tech:** SQL, Python (Pandas, NumPy)  
-- Cleaned and standardized large datasets by removing duplicates and fixing inconsistencies.  
-- Improved data quality and integrity for downstream analysis.  
-- Automated repetitive data cleaning processes with Python scripts.  
+**Tech:** SQL (MySQL), Tableau, Excel  
 
----
+- Cleaned and transformed retail data by removing duplicates and handling missing values  
+- Performed SQL analysis to identify revenue trends, customer behavior, and product performance  
+- Built an interactive Tableau dashboard with KPIs and filters  
+- Analyzed regional, product, and customer-level performance  
 
-### 📊 [Exploratory Data Analysis (EDA)](https://github.com/a-aggarwal7/Expo_data_analysis)
-**Tech:** Python (Matplotlib, Seaborn, Pandas)  
-- Analyzed large datasets to identify trends, distributions, and anomalies.  
-- Presented findings through visualizations to support data-driven decisions.  
-- Highlighted actionable business insights and recommended next steps.  
+📊 **Dashboard Features:**
+- KPIs: Revenue, Profit, Profit Margin  
+- Sales trends over time  
+- Top products and categories  
+- Regional performance and top customers  
+
+🧠 **Key Insights:**
+- A small percentage of customers drive a large portion of revenue  
+- Certain categories yield higher profit margins  
+- Seasonal trends significantly impact sales  
+- Regional differences highlight optimization opportunities  
+
+🚀 Demonstrates full analytics workflow from data cleaning to dashboard-driven insights
 
 ---
 
