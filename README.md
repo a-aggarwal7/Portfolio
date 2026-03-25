@@ -55,8 +55,7 @@ I enjoy turning raw data into clear, actionable insights that support smarter bu
 ---
 
 
-## 📊 End-to-End Sales Analytics Dashboard
-[End-to-End Sales Analytics Dashboard](https://github.com/a-aggarwal7/end_to_end_technical_layoffs_analysis)
+## 📊 [End-to-End Sales Analytics Dashboard](https://github.com/a-aggarwal7/Sales_analytics)
 
 **Tech:** SQL (MySQL), Tableau, Excel  
 
